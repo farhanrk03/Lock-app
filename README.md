@@ -22,10 +22,10 @@ A modern, lightweight folder-locking application for Windows — protect your fo
 
 | Type              | File                                         | Use Case                  |
 |-------------------|----------------------------------------------|---------------------------|
-| 🔹 Portable `.exe` | `folder_locker_en.exe`                       | Just run — no install     |
+| 🔹 Portable `.exe` | `folder locker stampo.exe`                       | Just run — no install     |
 | 🔹 Installer `.exe` | `FolderLockerInstaller.exe`                 | Adds Start Menu/Desktop   |
 
-> 📁 Files available in the `dist/` folder or [Releases](https://github.com/yourusername/folder-locker-desktop/releases)
+> 📁 Files available in the `dist/` folder.
 
 ---
 
