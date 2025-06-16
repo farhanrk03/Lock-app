@@ -56,4 +56,4 @@ A modern, lightweight folder-locking application for Windows — protect your fo
 - `customtkinter`, `pyzipper`
 - Build with:
   ```bash
-  pyinstaller --onefile --noconsole --icon=icon.ico folder_locker_en.py
+  pyinstaller --onefile --noconsole --icon=icon.ico --name=folder locker stampo lockv5.py
