@@ -25,7 +25,7 @@ A modern, lightweight folder-locking application for Windows — protect your fo
 | 🔹 Portable `.exe` | `folder locker stampo.exe`                       | Just run — no install     |
 | 🔹 Installer `.exe` | `FolderLockerInstaller.exe`                 | Adds Start Menu/Desktop   |
 
-> 📁 Files available in the `dist/` folder.
+> 📁 Files available [Releases](https://github.com/farhanrk03/Lock-app/releases/dist)
 
 ---
 
